@@ -1,1 +1,1 @@
-# A-algorithm-AIML-LAB-VTU
+# A-star-algorithm-AIML-LAB-VTU
